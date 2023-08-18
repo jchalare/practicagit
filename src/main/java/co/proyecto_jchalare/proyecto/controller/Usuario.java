@@ -18,7 +18,9 @@ public class Usuario {
         return apellidos;
     }
 
-    public setApellidos(String apellidos){
-        return apellidos;
+    public getNickName(){
+        return 'jchalare';
     }
+
+
 }
