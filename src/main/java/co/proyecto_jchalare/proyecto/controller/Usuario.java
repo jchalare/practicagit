@@ -22,5 +22,9 @@ public class Usuario {
         return 'jchalare';
     }
 
+    public setNickName(String nickName){
+        return nickName;
+    }
+
 
 }
