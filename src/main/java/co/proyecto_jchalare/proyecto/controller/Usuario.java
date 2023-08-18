@@ -17,4 +17,8 @@ public class Usuario {
     public setApellidos(String apellidos){
         return apellidos;
     }
+
+    public setApellidos(String apellidos){
+        return apellidos;
+    }
 }
