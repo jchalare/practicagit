@@ -5,4 +5,8 @@ public class Usuario {
     public getNombre(){
         return 'Jchalare';
     }
+
+    public setApellidos(String apellidos){
+        return apellidos;
+    }
 }
